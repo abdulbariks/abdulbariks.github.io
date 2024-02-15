@@ -80,6 +80,9 @@ header{
     color: black;
     text-decoration: underline;
 }
+#skills{
+    padding: 25px;
+}
 
 .achieve-desc span{
     font-weight: 700 !important;
